@@ -1,7 +1,6 @@
-###Olá!
+Olá!
 
-
-#Sou Sheia, professora de Matemática II. Espero que nossa parceria acrescente muito conheccimento e dê bons resultados.
+Sou Sheia, professora de Matemática II. Espero que nossa parceria acrescente muito conheccimento e dê bons resultados.
 
 
 
